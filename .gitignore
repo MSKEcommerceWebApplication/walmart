@@ -1,4 +1,9 @@
+#Ignore files called .classpath and .project 
+
 .classpath
 .project
+
+#Ignore folder called node_modules 
+
 /node_modules/
 
